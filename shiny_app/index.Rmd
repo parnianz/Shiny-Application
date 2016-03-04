@@ -14,10 +14,10 @@ knit        : slidify::knit2slides
 ## Outline
 
 1. part 1. Shiny application
-URL:https://parnianz.shinyapps.io/Projects/
+URL:http://parnianz.shinyapps.io/Projects/
 2. part 2. Reproducible Pitch Presentation
 3. part 3. all the codes are available in my github repo
-URL:
+URL:http://github.com/parnianz/Shiny-Application
 
 
 --- .class #id 
